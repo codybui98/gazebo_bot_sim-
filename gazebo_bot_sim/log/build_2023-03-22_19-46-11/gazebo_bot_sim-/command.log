@@ -1,0 +1,4 @@
+Invoking command in '/home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/codybui/gazebo_bot_sim/build/gazebo_bot_sim- -- -j16 -l16
+Invoked command in '/home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/codybui/gazebo_bot_sim/build/gazebo_bot_sim- -- -j16 -l16
+Invoking command in '/home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-
+Invoked command in '/home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-

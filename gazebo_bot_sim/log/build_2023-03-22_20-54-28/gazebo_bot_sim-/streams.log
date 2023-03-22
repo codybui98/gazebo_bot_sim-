@@ -1,0 +1,26 @@
+[0.017s] Invoking command in '/home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/codybui/gazebo_bot_sim/build/gazebo_bot_sim- -- -j16 -l16
+[0.045s] Invoked command in '/home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/codybui/gazebo_bot_sim/build/gazebo_bot_sim- -- -j16 -l16
+[0.083s] Invoking command in '/home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-
+[0.092s] -- Install configuration: ""
+[0.093s] -- Execute custom install script
+[0.093s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/config/empty.yaml
+[0.093s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/description/robot.urdf.xacro
+[0.093s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/description/robot_core.xacro
+[0.093s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/launch/rsp.launch.py
+[0.093s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/worlds/empty.world
+[0.094s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/ament_index/resource_index/package_run_dependencies/gazebo_bot_sim-
+[0.094s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/ament_index/resource_index/parent_prefix_path/gazebo_bot_sim-
+[0.094s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/environment/ament_prefix_path.sh
+[0.094s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/environment/ament_prefix_path.dsv
+[0.094s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/environment/path.sh
+[0.094s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/environment/path.dsv
+[0.095s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/local_setup.bash
+[0.095s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/local_setup.sh
+[0.095s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/local_setup.zsh
+[0.095s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/local_setup.dsv
+[0.095s] -- Symlinking: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/package.dsv
+[0.109s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/ament_index/resource_index/packages/gazebo_bot_sim-
+[0.110s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/cmake/gazebo_bot_sim-Config.cmake
+[0.110s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/cmake/gazebo_bot_sim-Config-version.cmake
+[0.110s] -- Up-to-date symlink: /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/package.xml
+[0.113s] Invoked command in '/home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/codybui/gazebo_bot_sim/build/gazebo_bot_sim-
