@@ -4,4 +4,7 @@
     <!-- Example link -->
     <xacro:include filename="$(find gazebo_bot_sim-)/description/robot_core.xacro"/>
     <!-- <link name="base_link"></link> -->
+    <xacro:include filename="$(find gazebo_bot_sim-)/description/gazebo_control.xacro"/>
+    <xacro:include filename="$(find gazebo_bot_sim-)/description/lidar.xacro"/>
+
 </robot>
