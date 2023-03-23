@@ -2,11 +2,13 @@
 /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/config/view_bot.rviz
 /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/description/gazebo_control.xacro
 /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/description/inertial_macros.xacro
+/home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/description/lidar.xacro
 /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/description/robot.urdf.xacro
 /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/description/robot_core.xacro
 /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/launch/launch_sim.launch.py
 /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/launch/rsp.launch.py
 /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/worlds/empty.world
+/home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/worlds/obstacles.world
 /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/ament_index/resource_index/package_run_dependencies/gazebo_bot_sim-
 /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/ament_index/resource_index/parent_prefix_path/gazebo_bot_sim-
 /home/codybui/gazebo_bot_sim/install/gazebo_bot_sim-/share/gazebo_bot_sim-/environment/ament_prefix_path.sh
